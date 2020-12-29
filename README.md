@@ -1,1 +1,1 @@
-# 3-course-python
+# 3-course-RIP
